@@ -1,0 +1,8 @@
+EN mux2 NULL /home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/mux2.vhd sub00/vhpl04 1685326262
+AR muxal behavioral /home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/muxal.vhd sub00/vhpl07 1685327502
+AR mux2 behavioral /home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/mux2.vhd sub00/vhpl05 1685326263
+AR sumador behavioral /home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/sumador.vhd sub00/vhpl03 1685325517
+EN muxal NULL /home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/muxal.vhd sub00/vhpl06 1685327501
+AR orbitabit behavioral /home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/orbitabit.vhd sub00/vhpl01 1685317992
+EN sumador NULL /home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/sumador.vhd sub00/vhpl02 1685325516
+EN orbitabit NULL /home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/orbitabit.vhd sub00/vhpl00 1685317991

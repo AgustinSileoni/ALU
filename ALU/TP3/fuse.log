@@ -1,0 +1,38 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -o /home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/ALU_isim_beh.exe -prj /home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/ALU_beh.prj work.ALU 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/sumador.vhd" into library work
+Parsing VHDL file "/home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/saturador.vhf" into library work
+Parsing VHDL file "/home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/orbitabit.vhd" into library work
+Parsing VHDL file "/home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/muxal.vhd" into library work
+Parsing VHDL file "/home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/andbitabit.vhf" into library work
+Parsing VHDL file "/home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/ALU.vhf" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 100660 KB
+Fuse CPU Usage: 1110 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package vcomponents
+Compiling architecture behavioral of entity orbitabit [orbitabit_default]
+Compiling architecture and2_v of entity AND2 [and2_default]
+Compiling architecture behavioral of entity andbitabit_MUSER_ALU [andbitabit_muser_alu_default]
+Compiling architecture behavioral of entity sumador [sumador_default]
+Compiling architecture and2b1_v of entity AND2B1 [and2b1_default]
+Compiling architecture or2_v of entity OR2 [or2_default]
+Compiling architecture behavioral of entity M2_1_MXILINX_ALU [m2_1_mxilinx_alu_default]
+Compiling architecture vcc_v of entity VCC [vcc_default]
+Compiling architecture gnd_v of entity GND [gnd_default]
+Compiling architecture behavioral of entity saturador_MUSER_ALU [saturador_muser_alu_default]
+Compiling architecture behavioral of entity muxal [muxal_default]
+Compiling architecture behavioral of entity alu
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 27 VHDL Units
+Built simulation executable /home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/ALU_isim_beh.exe
+Fuse Memory Usage: 1197972 KB
+Fuse CPU Usage: 1190 ms
+GCC CPU Usage: 820 ms

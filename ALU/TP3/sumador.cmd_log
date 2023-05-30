@@ -1,0 +1,6 @@
+vhdtdtfi -lib work sumador.vhd -prj TP3 -o sumador.spl -module sumador -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3 sumador.spl /home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/sumador.sym 
+vhdtdtfi -lib work sumador.vhd -prj TP3 -o sumador.spl -module sumador -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3 sumador.spl /home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/sumador.sym 
+vhdtdtfi -lib work sumador.vhd -prj TP3 -o sumador.spl -module sumador -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3 -w sumador.spl /home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/sumador.sym 

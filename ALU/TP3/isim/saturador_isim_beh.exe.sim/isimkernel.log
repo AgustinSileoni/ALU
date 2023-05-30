@@ -1,0 +1,29 @@
+Command line:
+   saturador_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  40619
+
+Mon May 29 20:21:46 2023
+
+
+ Elaboration Time: 0.21 sec
+
+ Current Memory Usage: 187.068 Meg
+
+ Total Signals          : 164
+ Total Nets             : 59
+ Total Signal Drivers   : 28
+ Total Blocks           : 40
+ Total Primitive Blocks : 31
+ Total Processes        : 28
+ Total Traceable Variables  : 13
+ Total Scalar Nets and Variables : 542
+Total Line Count : 28
+
+ Total Simulation Time: 0.27 sec
+
+ Current Memory Usage: 262.57 Meg
+
+Mon May 29 20:33:15 2023
+

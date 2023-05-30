@@ -1,0 +1,2 @@
+vhdtdtfi -lib work muxal.vhd -prj TP3 -o muxal.spl -module muxal -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3 -w muxal.spl /home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/muxal.sym 

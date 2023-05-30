@@ -1,0 +1,6 @@
+vhdl work "sumador.vhd"
+vhdl work "saturador.vhf"
+vhdl work "orbitabit.vhd"
+vhdl work "muxal.vhd"
+vhdl work "andbitabit.vhf"
+vhdl work "ALU.vhf"

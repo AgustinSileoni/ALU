@@ -1,0 +1,3 @@
+sch2hdl,-intstyle,ise,-family,spartan3,-flat,-suppress,-vhdl,/home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/andbitabit.vhf,-w,/home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/andbitabit.sch
+sch2hdl,-intstyle,ise,-family,spartan3,-flat,-suppress,-vhdl,/home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/ALU.vhf,-w,/home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/ALU.sch
+sch2hdl,-intstyle,ise,-family,spartan3,-flat,-suppress,-vhdl,/home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/saturador.vhf,-w,/home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/saturador.sch

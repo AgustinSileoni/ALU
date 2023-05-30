@@ -1,0 +1,2 @@
+vhdtdtfi -lib work mux2.vhd -prj TP3 -o mux2.spl -module mux2 -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3 -w mux2.spl /home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/mux2.sym 

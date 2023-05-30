@@ -1,0 +1,5 @@
+set -tmpdir "/home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/xst/projnav.tmp"
+set -xsthdpdir "/home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/xst"
+elaborate
+-ifn muxal.prj
+-ifmt mixed

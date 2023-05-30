@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "/home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/ALU_isim_beh.exe" -prj "/home/agustin/Materias/EDI/Trabajos_Practicos/TP3/ProyectosXilink/TP3/ALU_beh.prj" "work.ALU" 

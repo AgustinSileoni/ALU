@@ -71,18 +71,6 @@ La realización de este trabajo utilizando un software y una plaqueta especializ
 Además, nos gustaría destacar el uso del simulador y la modularización en este trabajo. Estas herramientas han sido fundamentales para solucionar problemas importantes que podrían haber requerido un esfuerzo adicional una vez implementado el programa en la plaqueta. Gracias al simulador, hemos podido detectar y resolver problemas desde la comodidad de una PC, lo que nos ha ahorrado tiempo y esfuerzo.
 
 
+Referencia al informe original
+https://docs.google.com/document/d/1cKdbLhYI1y336VQ-OXnL2Vu0wvoEV9tZzbO9Cub02cA/edit?usp=sharing
 
-
-
-
-
-
-
-
-
-
-
-Bibliografía y referencias
-[1] Sumador Restador
-[2] Sumador Complemento a 2 
-[3] Carry y Overflow
